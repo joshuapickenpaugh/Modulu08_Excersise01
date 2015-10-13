@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Joshua Pickenpaugh, IN2017
+//October 13th, 2015
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
