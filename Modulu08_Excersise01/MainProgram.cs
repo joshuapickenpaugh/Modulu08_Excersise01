@@ -9,10 +9,12 @@ using System.Threading.Tasks;
 
 namespace Modulu08_Excersise01
 {
-    class Program
+    class MainProgram
     {
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
     }
 }
